@@ -19,7 +19,6 @@ Exploring ethical hacking, network security, and web development.
 | [Tic-Tac-Toe](https://github.com/Shreyagrawalcode/Tic-Tac-Toe) | Two-player browser game with win detection logic | HTML, CSS, JavaScript |
 | [Amazon Clone](https://github.com/Shreyagrawalcode/Amazon-) | Full Amazon homepage UI clone | HTML, CSS |
 | [Stone-Paper-Scissors](https://github.com/Shreyagrawalcode/Stone-Paper-Scissors-) | Interactive game with scoreboard and animations | HTML, CSS, JavaScript |
-
 ---
 
 ## Experience
@@ -31,6 +30,7 @@ Exploring ethical hacking, network security, and web development.
 ## Currently working on
 - CTF writeups repo — documenting TryHackMe room solutions
 - PrivacyGuard — building permission scanner feature in Kotlin
+- TryHackMe SOC Level 1 — working toward Top 10% rank
 
 ---
 
